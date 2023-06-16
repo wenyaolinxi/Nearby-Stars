@@ -1,12 +1,14 @@
-CNS5id CJ   HD   HIP  视差   距离  多星  组件 备注 
-19     1  225213 439 230.12 4.34   0
+CNS5id GJ   HD   HIP  视差   距离  多星  组件 备注 
+19     1  225213 439 230.12 4.34   0       https://en.wikipedia.org/wiki/Gliese_1
+15     2    38   428 86.97  11.49  1    C  可能和GJ4AB系统组成3星系统https://en.wikipedia.org/wiki/ADS_48
+16     3    55   436 61.02  16.38  0
+21     4    38   473 86.85         1    B  https://en.wikipedia.org/wiki/ADS_48
+22     4    38   473 86.83         1    A  三星系统https://en.wikipedia.org/wiki/ADS_48
+26     5   166   544 72.64         0
+       6   400   699 30.66  32.16          无CNS5id
+42     7         738 42.09
+43     8   432   746 59.58  16.78  0       王良一 https://en.wikipedia.org/wiki/Beta_Cassiopeiae
 
-
-git add README.md
-
-git commit -m "first commit"
-
-git branch -M main
 
 git remote add origin https://github.com/wenyaolinxi/Nearby-Stars.git
 
