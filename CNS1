@@ -1,6 +1,6 @@
-echo "# Nearby-Stars" >> README.md
+CNS5id CJ   HD   HIP  视差   距离  多星  组件 备注 
+19     1  225213 439 230.12 4.34   0
 
-git init
 
 git add README.md
 
