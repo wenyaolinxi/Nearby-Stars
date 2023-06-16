@@ -1,15 +1,24 @@
 CNS5id GJ   HD   HIP  视差   距离  多星  组件 备注 
-19     1  225213 439 230.12 4.34   0       https://en.wikipedia.org/wiki/Gliese_1
-15     2    38   428 86.97  11.49  1    C  可能和GJ4AB系统组成3星系统https://en.wikipedia.org/wiki/ADS_48
-16     3    55   436 61.02  16.38  0
-21     4    38   473 86.85         1    B  https://en.wikipedia.org/wiki/ADS_48
-22     4    38   473 86.83         1    A  三星系统https://en.wikipedia.org/wiki/ADS_48
-26     5   166   544 72.64         0
-       6   400   699 30.66  32.16          无CNS5id
-42     7         738 42.09
-43     8   432   746 59.58  16.78  0       王良一 https://en.wikipedia.org/wiki/Beta_Cassiopeiae
-
-
-git remote add origin https://github.com/wenyaolinxi/Nearby-Stars.git
-
-git push -u origin main的
+19     1  225213 439  230.12 4.34   0       https://en.wikipedia.org/wiki/Gliese_1
+15     2    38   428  86.97  11.49  1    C  可能和GJ4AB系统组成3星系统https://en.wikipedia.org/wiki/ADS_48
+16     3    55   436  61.02  16.38  0
+21     4    38   473  86.85         1    B  https://en.wikipedia.org/wiki/ADS_48
+22     4    38   473  86.83         1    A  三星系统https://en.wikipedia.org/wiki/ADS_48
+26     5   166   544  72.64         0       https://en.wikipedia.org/wiki/HD_166
+       6   400   699  30.66  32.16  0       距离超过25pc，无CNS5id
+42     7         738  42.09         0
+43     8   432   746  59.58  16.78  0       王良一 https://en.wikipedia.org/wiki/Beta_Cassiopeiae
+       9   469   730  4.95   202.02 1   A   三星系统，距离超过25pcCNS5未记录
+       9   469   730  4.95   202.02 1   B
+       9   469   730  4.95   202.02 1   C
+49    10   693   910  52.95         0       八魁一https://en.wikipedia.org/wiki/6_Ceti
+58    11        1068  48.75         1   A   双星CNS5未记录双星中的B
+58    11        1068  48.75         1   B
+73    12              82.22         0
+      13  1273  1349  34.01         1   A   距离超过25pc，无CNS5id
+      13  1273  1349  34.01         1   B   
+86    14        1368  68.12         0
+89    15  1326  1475  280.74        1   A  拥有两颗行星https://en.wikipedia.org/wiki/Groombridge_34
+90    15  1326  1475  280.74        1   B
+88    16        1463  59.67         0
+102   17  1581  1599  116.18        0      鸟喙六https://en.wikipedia.org/wiki/Zeta_Tucanae
