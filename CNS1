@@ -25,3 +25,7 @@ CNS5id GJ   HD   HIP  视差   距离  多星  组件 备注
 118   18  2025  1936  55.85         0
 125   19  2151  2021  134.07        0       蛇尾一https://en.wikipedia.org/wiki/Beta_Hydri
 126   20  2262  2072  42.00         0       火鸟五https://en.wikipedia.org/wiki/Kappa_Phoenicis
+130   21        2120  61.90         0       有一颗系外行星候选http://exoplanet.eu/catalog/gj_21_b/
+155   22        2552  101.09        1   A   三星系统A和C紧密环绕，有一颗系外行星候选，行星质量可能超过14个木星质量使这个系统成为4星系统
+      22        2552  101.09        1   C   C星在CNS5中未记录https://en.wikipedia.org/wiki/Gliese_22
+154   22        2552  100.43        1   B   http://exoplanet.eu/catalog/gj_22_b_b/
