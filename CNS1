@@ -28,4 +28,14 @@ CNS5id GJ   HD   HIP  视差   距离  多星  组件 备注
 130   21        2120  61.90         0       有一颗系外行星候选http://exoplanet.eu/catalog/gj_21_b/
 155   22        2552  101.09        1   A   三星系统A和C紧密环绕，有一颗系外行星候选，行星质量可能超过14个木星质量使这个系统成为4星系统
       22        2552  101.09        1   C   C星在CNS5中未记录https://en.wikipedia.org/wiki/Gliese_22
-154   22        2552  100.43        1   B   http://exoplanet.eu/catalog/gj_22_b_b/
+154   22        2552  100.43        1   B   B星在稍远处环绕AC系统http://exoplanet.eu/catalog/gj_22_b_b/
+170   23  3196  2726  47.05         1   A   三星系统天溷增二https://en.wikipedia.org/wiki/13_Ceti
+      23              47.05         1   C   A星和C星组成光谱双星，CNS5未记录
+      23              47.05         1   B   B星在稍远处环绕AC系统，CNS5未记录
+      24  3405  2888  22.52         1   A   分光双星，距离超过25pc
+      24  3359  2848  23.29         1   B   距离超过25pc双星均未记录
+180   25  3443  2941  64.93         1   A   https://en.wikipedia.org/wiki/HD_3443
+180   25              64.93         1   B
+189   26              78.94         0
+192   27  3651  3093  90.02         1   A   有一颗径向速度发现的确定行星https://en.wikipedia.org/wiki/54_Piscium
+191 10108             89.79         1   B   褐矮星http://exoplanet.eu/catalog/hd_3651b/
