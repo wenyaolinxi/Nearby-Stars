@@ -58,3 +58,16 @@ CNS5id GJ   HD   HIP  视差   距离  多星  组件 备注
 257   40  4967  4022  65.12  15.35  1   A
 258   40              65.14  15.35  1   B
 262   41  5015  4151  52.90  18.90  0
+261   42  5133  4148  71.75  13.93  0       存在一碎片盘https://en.wikipedia.org/wiki/Gliese_42
+      43        4328  33.49  29.85  0       距离超过25pcCNS5未记录
+      44        4478  22.20  45.04  0       距离超过25pcCNS5未记录
+272   45  5633  4473  47.84  20.90  0
+276   46        4569  85.02  11.76  0       可能的分光双星https://simbad.cds.unistra.fr/simbad/sim-id?Ident=GJ+46
+282   47              95.01  10.52  0
+288   48        4856  121.49 8.23   0
+289   49        4872  101.46 9.85   1   A   有一颗径向速度发现的行星http://exoplanet.eu/catalog/gliese_49_b/
+      50        4824  29.11  34.35  0       距离超过25pcCNS5未记录
+298   51              101.37 9.86   1   B   与GJ49组成双星系统https://en.wikipedia.org/wiki/Gliese_49#cite_note-Perger2019-2
+310   52        5247  66.39  15.06  0       
+317   53  6582  5336  130.29 7.67   1   A   阁道四https://en.wikipedia.org/wiki/Mu_Cassiopeiae
+      53  6582  5336  130.29 7.67   1   B   光谱双星CNS5未记录
