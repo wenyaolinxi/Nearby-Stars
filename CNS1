@@ -2,40 +2,40 @@ CNS5id GJ   HD   HIP  视差   距离  多星  组件 备注
 19     1  225213 439  230.12 4.34   0       https://en.wikipedia.org/wiki/Gliese_1
 15     2    38   428  86.97  11.49  1    C  可能和GJ4AB系统组成3星系统https://en.wikipedia.org/wiki/ADS_48
 16     3    55   436  61.02  16.38  0
-21     4    38   473  86.85         1    B  https://en.wikipedia.org/wiki/ADS_48
-22     4    38   473  86.83         1    A  三星系统https://en.wikipedia.org/wiki/ADS_48
-26     5   166   544  72.64         0       https://en.wikipedia.org/wiki/HD_166
+21     4    38   473  86.85  11.51  1    B  https://en.wikipedia.org/wiki/ADS_48
+22     4    38   473  86.83  11.51  1    A  三星系统https://en.wikipedia.org/wiki/ADS_48
+26     5   166   544  72.64  13.76  0       https://en.wikipedia.org/wiki/HD_166
        6   400   699  30.66  32.16  0       距离超过25pc，无CNS5id
-42     7         738  42.09         0
+42     7         738  42.09  23.75  0
 43     8   432   746  59.58  16.78  0       王良一 https://en.wikipedia.org/wiki/Beta_Cassiopeiae
        9   469   730  4.95   202.02 1   A   三星系统，距离超过25pcCNS5未记录
        9   469   730  4.95   202.02 1   B
        9   469   730  4.95   202.02 1   C
-49    10   693   910  52.95         0       八魁一https://en.wikipedia.org/wiki/6_Ceti
-58    11        1068  48.75         1   A   双星CNS5未记录双星中的B
-      11        1068  48.75         1   B
-73    12              82.22         0
-      13  1273  1349  34.01         1   A   距离超过25pc，无CNS5id
-      13  1273  1349  34.01         1   B   
-86    14        1368  68.12         0
-89    15  1326  1475  280.74        1   A   拥有两颗行星https://en.wikipedia.org/wiki/Groombridge_34
-90    15  1326  1475  280.74        1   B
-88    16        1463  59.67         0
-102   17  1581  1599  116.18        0       鸟喙六https://en.wikipedia.org/wiki/Zeta_Tucanae
-118   18  2025  1936  55.85         0
-125   19  2151  2021  134.07        0       蛇尾一https://en.wikipedia.org/wiki/Beta_Hydri
-126   20  2262  2072  42.00         0       火鸟五https://en.wikipedia.org/wiki/Kappa_Phoenicis
-130   21        2120  61.90         0       有一颗系外行星候选http://exoplanet.eu/catalog/gj_21_b/
-155   22        2552  101.09        1   A   三星系统A和C紧密环绕，有一颗系外行星候选，行星质量可能超过14个木星质量使这个系统成为4星系统
-      22        2552  101.09        1   C   C星在CNS5中未记录https://en.wikipedia.org/wiki/Gliese_22
-154   22        2552  100.43        1   B   B星在稍远处环绕AC系统http://exoplanet.eu/catalog/gj_22_b_b/
-170   23  3196  2726  47.05         1   A   三星系统天溷增二https://en.wikipedia.org/wiki/13_Ceti
-      23              47.05         1   C   A星和C星组成光谱双星，CNS5未记录
-      23              47.05         1   B   B星在稍远处环绕AC系统，CNS5未记录
-      24  3405  2888  22.52         1   A   分光双星，距离超过25pc
-      24  3359  2848  23.29         1   B   距离超过25pc双星均未记录
-180   25  3443  2941  64.93         1   A   https://en.wikipedia.org/wiki/HD_3443
-180   25              64.93         1   B
-189   26              78.94         0
-192   27  3651  3093  90.02         1   A   有一颗径向速度发现的确定行星https://en.wikipedia.org/wiki/54_Piscium
-191 10108             89.79         1   B   褐矮星http://exoplanet.eu/catalog/hd_3651b/
+49    10   693   910  52.95  18.88  0       八魁一https://en.wikipedia.org/wiki/6_Ceti
+58    11        1068  48.75  20.51  1   A   双星CNS5未记录双星中的B
+      11        1068  48.75  20.51  1   B
+73    12              82.22  12.16  0
+      13  1273  1349  34.01  29.40  1   A   距离超过25pc，无CNS5id
+      13  1273  1349  34.01  29.40  1   B   
+86    14        1368  68.12  14.67  0
+89    15  1326  1475  280.74 3.56   1   A   拥有两颗行星https://en.wikipedia.org/wiki/Groombridge_34
+90    15  1326  1475  280.74 3.56   1   B
+88    16        1463  59.67  16.75  0
+102   17  1581  1599  116.18 8.60   0       鸟喙六https://en.wikipedia.org/wiki/Zeta_Tucanae
+118   18  2025  1936  55.85  17.90  0
+125   19  2151  2021  134.07 7.45   0       蛇尾一https://en.wikipedia.org/wiki/Beta_Hydri
+126   20  2262  2072  42.00  23.80  0       火鸟五https://en.wikipedia.org/wiki/Kappa_Phoenicis
+130   21        2120  61.90  16.15  0       有一颗系外行星候选http://exoplanet.eu/catalog/gj_21_b/
+155   22        2552  101.09 9.89   1   A   三星系统A和C紧密环绕，有一颗系外行星候选，行星质量可能超过14个木星质量使这个系统成为4星系统
+      22        2552  101.09 9.89   1   C   C星在CNS5中未记录https://en.wikipedia.org/wiki/Gliese_22
+154   22        2552  100.43 9.85   1   B   B星在稍远处环绕AC系统http://exoplanet.eu/catalog/gj_22_b_b/
+170   23  3196  2726  47.05  21.25  1   A   三星系统天溷增二https://en.wikipedia.org/wiki/13_Ceti
+      23              47.05  21.25  1   C   A星和C星组成光谱双星，CNS5未记录
+      23              47.05  21.25  1   B   B星在稍远处环绕AC系统，CNS5未记录
+      24  3405  2888  22.52  44.40  1   A   分光双星，距离超过25pc
+      24  3359  2848  23.29  42.93  1   B   距离超过25pc双星均未记录
+180   25  3443  2941  64.93  15.40  1   A   https://en.wikipedia.org/wiki/HD_3443
+180   25              64.93  15.40  1   B
+189   26              78.94  12.66  0
+192   27  3651  3093  90.02  11.10  1   A   有一颗径向速度发现的确定行星https://en.wikipedia.org/wiki/54_Piscium
+191 10108             89.79  11.16  1   B   褐矮星http://exoplanet.eu/catalog/hd_3651b/
