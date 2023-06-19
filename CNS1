@@ -93,20 +93,21 @@ CNS5id GJ   HD     HIP  视差   距离  多星  组件 备注
 428   66  10360         122.00 8.19   1   B
 435   67  10307   7918  68.02  14.70  1   A   光谱双星https://en.wikipedia.org/wiki/HD_10307
       67  10307   7918  68.05  14.70  1   B   光谱双星B星未被CNS5记录
-438   68  10476   7981  130.82        0       https://en.wikipedia.org/wiki/107_Piscium
-444   69  10436   8070  74.00         0       https://en.wikipedia.org/wiki/Gliese_69
-443   70          8051  88.35         0
-448   71  10700   8102  273.96        0       天仓五有4颗行星https://en.wikipedia.org/wiki/Tau_Ceti
-      72  10697   8159  30.15         0       双鱼座109有1颗行星https://en.wikipedia.org/wiki/109_Piscium距离超过25pcCNS5未记录
-450   73                61.69         0
-454   74  10853   8275  41.68         0
-458   75  10780   8362  99.59         0
-      76  11020   8346  22.70         0       距离超过25pcCNS5未收录
-      77  11112   8398  22.52         0       距离超过25pcCNS5未收录
-478   78          8691  58.28         0
-483   79  11507   8768  90.44         0
-495   80  11636   8903  55.60         1   A   娄宿一https://en.wikipedia.org/wiki/Beta_Arietis
-      80                55.60         1   B   分光双星CNS5未记录
-500   81  11937   9007  56.85         1   A   天园二https://en.wikipedia.org/wiki/Chi_Eridani
-      81                56.85         1   B   双星，可能是X射线发射源CNS5未记录
-509   82          9291  76.34         0
+438   68  10476   7981  130.82 7.64   0       https://en.wikipedia.org/wiki/107_Piscium
+444   69  10436   8070  74.00  13.51  0       https://en.wikipedia.org/wiki/Gliese_69
+443   70          8051  88.35  11.31  0
+448   71  10700   8102  273.96 3.65   0       天仓五有4颗行星https://en.wikipedia.org/wiki/Tau_Ceti
+      72  10697   8159  30.15  33.16  0       双鱼座109有1颗行星https://en.wikipedia.org/wiki/109_Piscium距离超过25pcCNS5未记录
+450   73                61.69  16.21  0
+454   74  10853   8275  41.68  23.99  0
+458   75  10780   8362  99.59  10.04  0
+      76  11020   8346  22.70  44.05  0       距离超过25pcCNS5未收录
+      77  11112   8398  22.52  44.40  0       距离超过25pcCNS5未收录
+478   78          8691  58.28  17.15  0
+483   79  11507   8768  90.44  11.05  0
+495   80  11636   8903  55.60  17.98  1   A   娄宿一https://en.wikipedia.org/wiki/Beta_Arietis
+      80                55.60  17.98  1   B   分光双星CNS5未记录
+500   81  11937   9007  56.85  17.59  1   A   天园二https://en.wikipedia.org/wiki/Chi_Eridani
+      81                56.85  17.59  1   B   双星，可能是X射线发射源CNS5未记录
+509   82          9291  76.34  13.09  0
+504   83  12311   9236  45.43  22.01  0       蛇首一https://en.wikipedia.org/wiki/Alpha_Hydri
