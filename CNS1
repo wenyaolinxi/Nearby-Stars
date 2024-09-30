@@ -1,106 +1,106 @@
-CNS5id GJ   HD     HIP  视差   距离  多星  组件 备注 
-19     1  225213   439  230.12 4.34   0       https://en.wikipedia.org/wiki/Gliese_1
-15     2    38     428  86.97  11.49  1    C  可能和GJ4AB系统组成3星系统https://en.wikipedia.org/wiki/ADS_48
-16     3    55     436  61.02  16.38  0
-21     4    38     473  86.85  11.51  1    B  https://en.wikipedia.org/wiki/ADS_48
-22     4    38     473  86.83  11.51  1    A  三星系统https://en.wikipedia.org/wiki/ADS_48
-26     5   166     544  72.64  13.76  0       https://en.wikipedia.org/wiki/HD_166
-       6   400     699  30.66  32.16  0       距离超过25pc，无CNS5id
-42     7           738  42.09  23.75  0
-43     8   432     746  59.58  16.78  0       王良一 https://en.wikipedia.org/wiki/Beta_Cassiopeiae
-       9   469     730  4.95   202.02 1   A   三星系统，距离超过25pcCNS5未记录
-       9   469     730  4.95   202.02 1   B
-       9   469     730  4.95   202.02 1   C
-49    10   693     910  52.95  18.88  0       八魁一https://en.wikipedia.org/wiki/6_Ceti
-58    11          1068  48.75  20.51  1   A   三星系统CNS5未记录双星中的B和C
-      11          1068  48.75  20.51  1   B
-      11          1068  48.75  20.51  1   C
-73    12                82.22  12.16  0       拥有1颗系外行星https://en.wikipedia.org/wiki/Gliese_12
-      13  1273    1349  34.01  29.40  1   A   距离超过25pc，无CNS5id
-      13  1273    1349  34.01  29.40  1   B   
-86    14          1368  68.12  14.67  0
-89    15  1326    1475  280.74 3.56   1   A   拥有两颗行星https://en.wikipedia.org/wiki/Groombridge_34
-90    15  1326    1475  280.74 3.56   1   B
-88    16          1463  59.67  16.75  0
-102   17  1581    1599  116.18 8.60   0       鸟喙六https://en.wikipedia.org/wiki/Zeta_Tucanae
-118   18  2025    1936  55.85  17.90  0
-125   19  2151    2021  134.07 7.45   0       蛇尾一https://en.wikipedia.org/wiki/Beta_Hydri
-126   20  2262    2072  42.00  23.80  0       火鸟五https://en.wikipedia.org/wiki/Kappa_Phoenicis
-130   21          2120  61.90  16.15  0       有一颗系外行星候选http://exoplanet.eu/catalog/gj_21_b/
-155   22          2552  101.09 9.89   1   A   三星系统A和C紧密环绕，有一颗系外行星候选，行星质量可能超过14个木星质量使这个系统成为4星系统
-      22          2552  101.09 9.89   1   C   C星在CNS5中未记录https://en.wikipedia.org/wiki/Gliese_22
-154   22          2552  100.43 9.85   1   B   B星在稍远处环绕AC系统http://exoplanet.eu/catalog/gj_22_b_b/
-170   23  3196    2726  47.05  21.25  1   A   三星系统天溷增二https://en.wikipedia.org/wiki/13_Ceti
-      23                47.05  21.25  1   C   A星和C星组成光谱双星，CNS5未记录
-      23                47.05  21.25  1   B   B星在稍远处环绕AC系统，CNS5未记录
-      24  3405    2888  22.52  44.40  1   A   分光双星，距离超过25pc
-      24  3359    2848  23.29  42.93  1   B   距离超过25pc双星均未记录
-180   25  3443    2941  64.93  15.40  1   A   https://en.wikipedia.org/wiki/HD_3443
-180   25                64.93  15.40  1   B
-189   26                78.94  12.66  0
-192   27  3651    3093  90.02  11.10  1   A   有一颗径向速度发现的确定行星https://en.wikipedia.org/wiki/54_Piscium
-191 10108               89.79  11.16  1   B   褐矮星http://exoplanet.eu/catalog/hd_3651b/
-197   28  3765    3206  55.87  17.86  0       有一颗径向速度发现的确定行星http://exoplanet.eu/catalog/hip_3206_b/
-      29  3823    3170  39.59  25.25  0       距离超过25pcCNS5未记录
-208   30          3418  47.48  21.06  0
-      31  4128    3419  33.86  29.55  0       距离超过25pcCNS5为记录土司空https://en.wikipedia.org/wiki/Beta_Ceti
-225   32  4378    3588  63.61  15.72  1   A
-226   32                63.60  15.72  1   B
-233   33  4628    3765  134.49 7.43   0       https://en.wikipedia.org/wiki/HD_4628
-239   34  4614    3821  168.83 5.92   1   A   王良三https://en.wikipedia.org/wiki/Eta_Cassiopeiae
-238   34                168.75 5.92   1   B
-240   35          3829  231.81 4.31   0       范马南2白矮星https://en.wikipedia.org/wiki/Van_Maanen_2
-242   36  4747    3850  53.08  18.83  1   A   有一颗褐矮星伴星https://en.wikipedia.org/wiki/HD_4747
-      36                53.18  18.80  1   B   褐矮星伴星，CNS5未记录
-247   37  4813    3909  62.80  15.92  0       https://en.wikipedia.org/wiki/Phi2_Ceti
-256   38          4012  52.70  18.97  0
-254   39  4913    3998  45.06  22.19  1   A
-255 10138               45.16  22.14  1   B
-257   40  4967    4022  65.12  15.35  1   A
-258   40                65.14  15.35  1   B
-262   41  5015    4151  52.90  18.90  0
-261   42  5133    4148  71.75  13.93  0       存在一碎片盘https://en.wikipedia.org/wiki/Gliese_42
-      43          4328  33.49  29.85  0       距离超过25pcCNS5未记录
-      44          4478  22.20  45.04  0       距离超过25pcCNS5未记录
-272   45  5633    4473  47.84  20.90  0
-276   46          4569  85.02  11.76  0       可能的分光双星https://simbad.cds.unistra.fr/simbad/sim-id?Ident=GJ+46
-282   47                95.01  10.52  0
-288   48          4856  121.49 8.23   0
-289   49          4872  101.46 9.85   1   A   有一颗径向速度发现的行星http://exoplanet.eu/catalog/gliese_49_b/
-      50          4824  29.11  34.35  0       距离超过25pcCNS5未记录
-298   51                101.37 9.86   1   B   与GJ49组成双星系统https://en.wikipedia.org/wiki/Gliese_49#cite_note-Perger2019-2
-310   52          5247  66.39  15.06  0       
-317   53  6582    5336  130.29 7.67   1   A   阁道四https://en.wikipedia.org/wiki/Mu_Cassiopeiae
-      53  6582    5336  130.29 7.67   1   B   光谱双星CNS5未记录
-326   54          5496  122.04 8.19   1   A   https://en.wikipedia.org/wiki/Gliese_54#cite_note-Golimowski-7
-      54          5496  122.04 8.19   1   B   双星，未被CNS5记录
-346   55  7570    5862  65.53  15.26  0       凤凰座νhttps://en.wikipedia.org/wiki/Nu_Phoenicis
-      56  7870    6037  30.81  32.45  0       距离超过25pcCNS5未记录
-364   57          6351  59.92  16.68  0
-      58  8638    6607  24.60  40.65  0
-391   59  9540    7235  51.93  19.25  1   A  
-      59  9540    7235  51.93  19.25  1   B   双星，未被CNS5记录
-396   60  9770    7372  46.24  21.62  1   A   三星系统，未被CNS5识别
-      60  9770    7372  46.24  21.62  1   B   三星系统，B星未CNS5记录
-397 10212 9770C   7372  45.79  21.83  1   C   三星系统，未被CNS5识别未组件
-402   61  9826    7513  74.12  13.48  1   A   天大将军六https://en.wikipedia.org/wiki/Upsilon_Andromedae
-403 10216               74.20  13.47  1   B   这个系统有4颗行星，有颗行星的质量可能足够成为褐矮星使这个系统成为3星系统
-      62  10002   7539  29.31  34.11  0       距离超过25pcCNS5未收录
-416   63          7635  75.92  13.17  0
-414   64                79.28  12.61  0       白矮星
-424   65                369.93 2.70   1   A   双星https://en.wikipedia.org/wiki/Luyten_726-8
-425   65                373.84 2.67   1   B   这个双星系统是现今离太阳第八近的恒星系统
-429   66  10361   7751  122.11 8.18   1   A   波江座phttps://en.wikipedia.org/wiki/P_Eridani
-428   66  10360         122.00 8.19   1   B
-435   67  10307   7918  68.02  14.70  1   A   光谱双星https://en.wikipedia.org/wiki/HD_10307
-      67  10307   7918  68.05  14.70  1   B   光谱双星B星未被CNS5记录
-438   68  10476   7981  130.82 7.64   0       https://en.wikipedia.org/wiki/107_Piscium
-444   69  10436   8070  74.00  13.51  0       https://en.wikipedia.org/wiki/Gliese_69
-443   70          8051  88.35  11.31  0
-448   71  10700   8102  273.96 3.65   0       天仓五有4颗行星https://en.wikipedia.org/wiki/Tau_Ceti
-      72  10697   8159  30.15  33.16  0       双鱼座109有1颗行星https://en.wikipedia.org/wiki/109_Piscium距离超过25pcCNS5未记录
-450   73                61.69  16.21  0
-454   74  10853   8275  41.68  23.99  0
+CNS5id GJ  系外行星      HD     HIP  视差   距离  多星  组件 备注 
+19     1             225213   439  230.12 4.34   0       https://en.wikipedia.org/wiki/Gliese_1
+15     2               38     428  86.97  11.49  1    C  可能和GJ4AB系统组成3星系统https://en.wikipedia.org/wiki/ADS_48
+16     3               55     436  61.02  16.38  0
+21     4               38     473  86.85  11.51  1    B  https://en.wikipedia.org/wiki/ADS_48
+22     4               38     473  86.83  11.51  1    A  三星系统https://en.wikipedia.org/wiki/ADS_48
+26     5              166     544  72.64  13.76  0       https://en.wikipedia.org/wiki/HD_166
+       6              400     699  30.66  32.16  0       距离超过25pc，无CNS5id
+42     7                      738  42.09  23.75  0
+43     8              432     746  59.58  16.78  0       王良一 https://en.wikipedia.org/wiki/Beta_Cassiopeiae
+       9              469     730  4.95   202.02 1   A   三星系统，距离超过25pcCNS5未记录
+       9              469     730  4.95   202.02 1   B
+       9              469     730  4.95   202.02 1   C
+49    10              693     910  52.95  18.88  0       八魁一https://en.wikipedia.org/wiki/6_Ceti
+58    11                     1068  48.75  20.51  1   A   三星系统CNS5未记录双星中的B和C
+      11                     1068  48.75  20.51  1   B
+      11                     1068  48.75  20.51  1   C
+73    12     1                     82.22  12.16  0       拥有1颗系外行星https://en.wikipedia.org/wiki/Gliese_12
+      13             1273    1349  34.01  29.40  1   A   距离超过25pc，无CNS5id
+      13             1273    1349  34.01  29.40  1   B   
+86    14                     1368  68.12  14.67  0
+89    15     2       1326    1475  280.74 3.56   1   A   拥有两颗行星https://en.wikipedia.org/wiki/Groombridge_34
+90    15             1326    1475  280.74 3.56   1   B
+88    16                     1463  59.67  16.75  0
+102   17             1581    1599  116.18 8.60   0       鸟喙六https://en.wikipedia.org/wiki/Zeta_Tucanae
+118   18             2025    1936  55.85  17.90  0
+125   19             2151    2021  134.07 7.45   0       蛇尾一https://en.wikipedia.org/wiki/Beta_Hydri
+126   20             2262    2072  42.00  23.80  0       火鸟五https://en.wikipedia.org/wiki/Kappa_Phoenicis
+130   21                     2120  61.90  16.15  0       有一颗系外行星https://exoplanet.eu/catalog/gj_21_b--8142/#planet-detail-info
+155   22                     2552  101.09 9.89   1   A   三星系统A和C紧密环绕，有一颗系外行星候选，行星质量可能超过14个木星质量使这个系统成为4星系统
+      22                     2552  101.09 9.89   1   C   C星在CNS5中未记录https://en.wikipedia.org/wiki/Gliese_22
+154   22     1               2552  100.43 9.85   1   B   B星在稍远处环绕AC系统http://exoplanet.eu/catalog/gj_22_b_b/
+170   23             3196    2726  47.05  21.25  1   A   三星系统天溷增二https://en.wikipedia.org/wiki/13_Ceti
+      23                           47.05  21.25  1   C   A星和C星组成光谱双星，CNS5未记录
+      23                           47.05  21.25  1   B   B星在稍远处环绕AC系统，CNS5未记录
+      24             3405    2888  22.52  44.40  1   A   距离超过25pc，无CNS5id
+      24             3359    2848  23.29  42.93  1   B   距离超过25pc，无CNS5id
+180   25             3443    2941  64.93  15.40  1   A   https://en.wikipedia.org/wiki/HD_3443
+180   25                           64.93  15.40  1   B
+189   26                           78.94  12.66  0
+192   27     1       3651    3093  90.02  11.10  1   A   有一颗径向速度发现的确定行星https://en.wikipedia.org/wiki/54_Piscium
+191 10108                          89.79  11.16  1   B   褐矮星http://exoplanet.eu/catalog/hd_3651b/
+197   28     1       3765    3206  55.87  17.86  0       有一颗径向速度发现的确定行星http://exoplanet.eu/catalog/hip_3206_b/
+      29             3823    3170  39.59  25.25  0       距离超过25pc，无CNS5id
+208   30                     3418  47.48  21.06  0
+      31             4128    3419  33.86  29.55  0       距离超过25pc，无CNS5id土司空https://en.wikipedia.org/wiki/Beta_Ceti
+225   32             4378    3588  63.61  15.72  1   A
+226   32                           63.60  15.72  1   B
+233   33             4628    3765  134.49 7.43   0       https://en.wikipedia.org/wiki/HD_4628
+239   34             4614    3821  168.83 5.92   1   A   王良三https://en.wikipedia.org/wiki/Eta_Cassiopeiae
+238   34                           168.75 5.92   1   B
+240   35                     3829  231.81 4.31   0       范马南2白矮星https://en.wikipedia.org/wiki/Van_Maanen_2
+242   36             4747    3850  53.08  18.83  1   A   有一颗褐矮星伴星https://en.wikipedia.org/wiki/HD_4747
+      36                           53.18  18.80  1   B   褐矮星伴星，CNS5未记录
+247   37             4813    3909  62.80  15.92  0       https://en.wikipedia.org/wiki/Phi2_Ceti
+256   38                     4012  52.70  18.97  0
+254   39             4913    3998  45.06  22.19  1   A
+255 10138                          45.16  22.14  1   B
+257   40             4967    4022  65.12  15.35  1   A
+258   40                           65.14  15.35  1   B
+262   41             5015    4151  52.90  18.90  0
+261   42             5133    4148  71.75  13.93  0       存在一碎片盘https://en.wikipedia.org/wiki/Gliese_42
+      43                     4328  33.49  29.85  0       距离超过25pc，无CNS5id
+      44                     4478  22.20  45.04  0       距离超过25pc，无CNS5id
+272   45             5633    4473  47.84  20.90  0
+276   46                     4569  85.02  11.76  0       可能的分光双星https://simbad.cds.unistra.fr/simbad/sim-id?Ident=GJ+46
+282   47                           95.01  10.52  0
+288   48                     4856  121.49 8.23   0
+289   49    1                4872  101.46 9.85   0   A   有一颗径向速度发现的行星http://exoplanet.eu/catalog/gliese_49_b/
+      50                     4824  29.11  34.35  0       距离超过25pc，无CNS5id
+298   51                           101.37 9.86   1   B   与GJ49组成双星系统https://en.wikipedia.org/wiki/Gliese_49#cite_note-Perger2019-2
+310   52                     5247  66.39  15.06  0       
+317   53             6582    5336  130.29 7.67   1   A   阁道四https://en.wikipedia.org/wiki/Mu_Cassiopeiae
+      53             6582    5336  130.29 7.67   1   B   光谱双星CNS5未记录
+326   54                     5496  122.04 8.19   1   A   https://en.wikipedia.org/wiki/Gliese_54#cite_note-Golimowski-7
+      54                     5496  122.04 8.19   1   B   双星，未被CNS5记录
+346   55             7570    5862  65.53  15.26  0       凤凰座νhttps://en.wikipedia.org/wiki/Nu_Phoenicis
+      56             7870    6037  30.81  32.45  0       距离超过25pc，无CNS5id
+364   57                     6351  59.92  16.68  0
+      58             8638    6607  24.60  40.65  0
+391   59             9540    7235  51.93  19.25  1   A  
+      59             9540    7235  51.93  19.25  1   B   双星，未被CNS5记录
+396   60             9770    7372  46.24  21.62  1   A   三星系统，未被CNS5识别
+      60             9770    7372  46.24  21.62  1   B   三星系统，B星未CNS5记录
+397 10212            9770C   7372  45.79  21.83  1   C   三星系统，未被CNS5识别未组件
+402   61             9826    7513  74.12  13.48  1   A   天大将军六https://en.wikipedia.org/wiki/Upsilon_Andromedae
+403 10216                          74.20  13.47  1   B   这个系统有4颗行星，有颗行星的质量可能足够成为褐矮星使这个系统成为3星系统
+      62             10002   7539  29.31  34.11  0       距离超过25pcCNS5未收录
+416   63                     7635  75.92  13.17  0
+414   64                           79.28  12.61  0       白矮星
+424   65                           369.93 2.70   1   A   双星https://en.wikipedia.org/wiki/Luyten_726-8
+425   65                           373.84 2.67   1   B   这个双星系统是现今离太阳第八近的恒星系统
+429   66             10361   7751  122.11 8.18   1   A   波江座phttps://en.wikipedia.org/wiki/P_Eridani
+428   66             10360         122.00 8.19   1   B
+435   67             10307   7918  68.02  14.70  1   A   光谱双星https://en.wikipedia.org/wiki/HD_10307
+      67             10307   7918  68.05  14.70  1   B   光谱双星B星未被CNS5记录
+438   68             10476   7981  130.82 7.64   0       https://en.wikipedia.org/wiki/107_Piscium
+444   69             10436   8070  74.00  13.51  0       https://en.wikipedia.org/wiki/Gliese_69
+443   70                     8051  88.35  11.31  0
+448   71    4        10700   8102  273.96 3.65   0       天仓五有4颗行星https://en.wikipedia.org/wiki/Tau_Ceti
+      72             10697   8159  30.15  33.16  0       双鱼座109有1颗行星https://en.wikipedia.org/wiki/109_Piscium距离超过25pcCNS5未记录
+450   73                           61.69  16.21  0
+454   74             10853   8275  41.68  23.99  0
 458   75  10780   8362  99.59  10.04  0
       76  11020   8346  22.70  44.05  0       距离超过25pcCNS5未收录
       77  11112   8398  22.52  44.40  0       距离超过25pcCNS5未收录
