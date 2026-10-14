@@ -1,0 +1,59 @@
+Nearby-Stars / CNS1 补全说明
+整理日期：2026-10-15（亚洲/上海）
+
+交付内容
+CNS1：沿用原稿的十列顺序和纯文本格式，可用作仓库 CNS1 文件的替换内容。
+CNS1-original-2024.txt：保留下载到的作者原稿。
+CNS1-provenance.json：每行的测量来源、完整精度、旧备注、官方表记录和行星匹配依据。
+CNS1-checks.txt：实际检查结果和资料仍不充分的条目清单。
+
+范围与结果
+GJ 1–915 的全部 915 个整数编号均有记录。另包括 613 个小数编号以及相关系统在范围外的伴星，共 2085 行数据。
+这是一份 GJ 编号资料表，不是纯粹的 25 pc 样本；范围外恒星沿用原稿做法保留。
+AB、BC 等合并条目按已有组件标签拆列；若来源没有独立分辨，明确标为共享的编号与视差。
+无法取得独立组件名称的新增 CNS5 条目，用 [CNS5 编号] 作为识别标签，未据此补造 A/B 标签。
+NASA 当前下载表中匹配到 312 颗已确认行星，分别记录于 180 行宿主或未分辨系统。
+按照 HIP 编号匹配 Stellarium 中文星名，233 行获得名称；也保留了原稿已有中文星名。
+
+列的口径
+CNS5id：采用官方持续更新版编号。合并的 AB 条目拆成两行时可共享 CNS5id；备注解释原因。无独立条目时留空。
+GJ：数值排序，保留小数编号；18.0 等纯格式别名统一为 18。范围外相关伴星跟随关联系统排列。
+系外行星：NASA Exoplanet Archive pscomppars 中已确认行星的宿主匹配数。空白表示本次未匹配到记录，并不表示没有行星。候选、被否定对象和褐矮星不补入已确认行星数。
+HD/HIP：来自当前 SIMBAD 交叉编号和 CNS5；仅有历史对应关系的条目明确保留其来源。HD 组件后缀按来源保留。
+视差：单位 mas，正文保留两位小数；完整精度和误差保存在溯源文件。
+距离：单位 pc，用完整精度视差计算 1000/视差，再四舍五入到两位小数。因此，用正文已舍入视差再计算可能相差 0.01 pc。这不是贝叶斯距离估计。
+多星：1 表示来源记录了多星/分光双星、多个组件或关联组件；0 表示本次来源没有明确的多星记录，不能解释为已证明单星。关联组件不必然是已确认物理束缚伴星，未确认者在备注中说明。褐矮星伴星沿用原稿做法列在组件中。
+组件：沿用已发表标签，允许 Aa/Ab 等层级标记；未分辨系统保留合并信息。GJ 23 使用 Aa/Ab/B，以清楚表达内外层结构。
+备注：中文星名、恒星类型、系统关系、行星名称、共享测量说明、资料局限和可点击来源。原稿的全部自由文本备注在原稿文件及溯源记录中保留；没有将 2024 年的候选数量自动当作最新结论。
+
+资料局限
+有 2 行来源未给出可核查视差，视差与距离留空，并在正文写明。
+有 14 行只能使用 CNS3 的历史三角视差（含系统继承值），已逐行标注。
+有 5 个旧组件未能唯一匹配到当前条目，保留历史记录并注明，不当作已完成的独立识别。具体编号见 CNS1-checks.txt。
+共享视差、系统级 HD/HIP 和合并条目不代表各组件都有独立测量。CNS5 的系统成员数与 SIMBAD 的附加关联组件可能不同，保留来源口径。
+当前可下载来源的整理进度不完全相同；“当前”指本次检索取得的资料，并非每个数值都测于 2026 年。
+本次完成了编号范围、来源连接和表内一致性检查；没有逐篇穷尽所有最新伴星论文。未将空白、缺测或候选关系用推测补成确定事实。
+
+主要改正示例
+GJ 98 的 CNS5id 为 623；628 对应 GJ 100 C。
+GJ 100 A/B 对应 CNS5id 632 的 AB 合并条目，共享编号是合理的。
+GJ 49 与 GJ 51 在当前 CNS5 中属于同一个双星系统，均记多星=1。
+GJ 84 采用当前来源视差重新计算距离，约 9.32 pc；原稿 9.92 pc 不再保留。
+GJ 36 的 HD 4747 B 为文献确认的褐矮星伴星，单独列出并注明采用主星视差。
+
+主要来源与致谢
+CNS5 持续更新版（官方数据与字段定义）：https://dc.zah.uni-heidelberg.de/tableinfo/cns5update.main
+CNS5 论文，Golovin 等（2023）：https://doi.org/10.1051/0004-6361/202244250
+SIMBAD（CDS，Strasbourg）：https://simbad.cds.unistra.fr/simbad/；TAP：https://simbad.cds.unistra.fr/simbad/sim-tap/
+SIMBAD 的交叉编号及层级成员资料用于辅助识别；有成员记录但未给物理绑定概率时在备注中说明。SIMBAD 资料遵循其 ODbL 使用条款，使用时请保留致谢与来源。
+CNS3 / VizieR V/70A（Gliese & Jahreiss, 1991）：https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/V/70A
+NASA Exoplanet Archive：https://exoplanetarchive.ipac.caltech.edu/；表 pscomppars；说明：https://exoplanetarchive.ipac.caltech.edu/docs/API_TD_columns.html
+Stellarium 中文星名对照：https://github.com/Stellarium/stellarium/blob/master/skycultures/chinese/index.json
+中文星名来源说明：https://github.com/Stellarium/stellarium/blob/master/skycultures/chinese/description.md；依据仪象考成、中西对照恒星图表等。
+HD 4747 B 原始研究：https://arxiv.org/abs/1604.00398；后续研究：https://arxiv.org/abs/2208.01657
+13 Ceti 三星系统研究：https://ntrs.nasa.gov/citations/19760040940
+作者原稿：https://github.com/wenyaolinxi/Nearby-Stars/blob/main/CNS1
+原稿 blob SHA：54f6421385e4843454f5abe4da8bafe12b9beaa9
+
+下载源记录数：{"cns5-updated.csv": 6521, "simbad_gj.csv": 5469, "planets.csv": 6445, "simbad-hierarchy.csv": 1183}
+结果文件采用 UTF-8 编码；用等宽字体查看可保持列对齐。
