@@ -1,0 +1,55 @@
+{
+  "date_shanghai": "2026-10-16",
+  "scope": "GJ 1000–1294 and related companions",
+  "sources": {
+    "cns5-updated.csv": {
+      "retrieved_utc": "2026-10-15T16:38:17.8899289Z",
+      "url": "https://dc.zah.uni-heidelberg.de/tap/sync?REQUEST=doQuery&LANG=ADQL&FORMAT=csv&MAXREC=15000&QUERY=SELECT+cns5_id%2Cgj_id%2Ccomponent_id%2Cn_components%2Cprimary_flag%2Cgj_system_primary%2Cgaia_dr3_id%2Chip_id%2Cra%2Cdec%2Cparallax%2Cparallax_error%2Cparallax_bibcode%2Ccns6_system_id%2Cn_planets%2Creference_object_cns5_id%2Cnexa_id%2Cmultiplicity_bibcode%2Cremarks+FROM+cns5update.main+ORDER+BY+cns5_id",
+      "bytes": 892930,
+      "use_status": "refetched_for_CNS2"
+    },
+    "simbad_gj.csv": {
+      "retrieved_utc": "2026-10-15T16:38:33.8304157Z",
+      "url": "https://simbad.cds.unistra.fr/simbad/sim-tap/sync?REQUEST=doQuery&LANG=ADQL&FORMAT=csv&MAXREC=50000&QUERY=SELECT%20i.id%20AS%20gj_alias%2Cb.oid%2Cb.main_id%2Cb.otype%2Cb.ra%2Cb.dec%2Cb.plx_value%2Cb.plx_err%2Cb.plx_bibcode%2Ca.ids%20FROM%20ident%20AS%20i%20JOIN%20basic%20AS%20b%20ON%20i.oidref%3Db.oid%20JOIN%20ids%20AS%20a%20ON%20a.oidref%3Db.oid%20WHERE%20i.id%20LIKE%20%27GJ%20%25%27",
+      "bytes": 2779583,
+      "use_status": "refetched_for_CNS2"
+    },
+    "simbad-hierarchy.csv": {
+      "retrieved_utc": "2026-10-15T16:38:37.8306953Z",
+      "url": "https://simbad.cds.unistra.fr/simbad/sim-tap/sync?REQUEST=doQuery&LANG=ADQL&FORMAT=csv&MAXREC=50000&QUERY=SELECT%20DISTINCT%20h.parent%2Ch.child%2Ch.membership%2Ch.link_bibcode%2Cp.main_id%20AS%20parent_main%2Cp.otype%20AS%20parent_type%2Cpa.ids%20AS%20parent_ids%2Cc.main_id%20AS%20child_main%2Cc.otype%20AS%20child_type%2Cc.ra%2Cc.dec%2Cc.plx_value%2Cc.plx_err%2Cc.plx_bibcode%2Cca.ids%20AS%20child_ids%0AFROM%20h_link%20AS%20h%20JOIN%20basic%20AS%20p%20ON%20p.oid%3Dh.parent%20JOIN%20ids%20AS%20pa%20ON%20pa.oidref%3Dp.oid%20JOIN%20basic%20AS%20c%20ON%20c.oid%3Dh.child%20JOIN%20ids%20AS%20ca%20ON%20ca.oidref%3Dc.oid%0AWHERE%20p.otype%20IN%20%28%27%2A%2A%27%2C%27SB%2A%27%2C%27EB%2A%27%2C%27PM%2A%27%2C%27BY%2A%27%2C%27RS%2A%27%2C%27%2A%27%2C%27WD%2A%27%2C%27BD%2A%27%29%20AND%20%28h.parent%20IN%20%28SELECT%20i.oidref%20FROM%20ident%20AS%20i%20WHERE%20i.id%20LIKE%20%27GJ%20%25%27%29%20OR%20h.parent%20IN%20%28SELECT%20h2.parent%20FROM%20h_link%20AS%20h2%20JOIN%20ident%20AS%20i2%20ON%20i2.oidref%3Dh2.child%20WHERE%20i2.id%20LIKE%20%27GJ%20%25%27%29%29",
+      "bytes": 831244,
+      "use_status": "refetched_for_CNS2"
+    },
+    "simbad-supplement.csv": {
+      "url": "https://simbad.cds.unistra.fr/simbad/sim-tap/sync?REQUEST=doQuery&LANG=ADQL&FORMAT=csv&MAXREC=1000&QUERY=SELECT%20i.id%20AS%20queried_alias%2Cb.oid%2Cb.main_id%2Cb.otype%2Cb.ra%2Cb.dec%2Cb.plx_value%2Cb.plx_err%2Cb.plx_bibcode%2Ca.ids%20FROM%20ident%20AS%20i%20JOIN%20basic%20AS%20b%20ON%20i.oidref%3Db.oid%20JOIN%20ids%20AS%20a%20ON%20a.oidref%3Db.oid%20WHERE%20i.id%20IN%20%28%27G%20115-68%27%2C%27G%20115-69%27%2C%27G%20125-62%27%2C%27LHS%201952%27%2C%27LP%20603-2%27%2C%27HD%20212989%27%2C%27HD%20111312%27%2C%27GJ%201165%27%2C%27GJ%201166%27%2C%27GJ%201122%27%29",
+      "bytes": 3198,
+      "retrieved_utc": "2026-10-15T16:41:21.6189970Z",
+      "use_status": "refetched_for_CNS2"
+    },
+    "planets.csv": {
+      "url": "https://exoplanetarchive.ipac.caltech.edu/TAP/sync?query=SELECT+pl_name%2Chostname%2Chd_name%2Chip_name%2Cgaia_dr2_id%2Cgaia_dr3_id%2Csy_snum%2Csy_pnum%2Cra%2Cdec%2Cdiscoverymethod%2Cdisc_year%2Cpl_bmassj+FROM+pscomppars&format=csv",
+      "retrieved_utc": "2026-10-14T17:24:36Z",
+      "bytes": 939844,
+      "use_status": "reused_verified_2026-10-15_snapshot"
+    },
+    "cns3.tsv": {
+      "bytes": 1184296,
+      "url": "https://vizier.cds.unistra.fr/viz-bin/asu-tsv?-source=V%2F70A%2Fcatalog&-out.all&-out.max=10000",
+      "retrieved_utc": "2026-10-14T17:26:07.6408303Z",
+      "use_status": "reused_verified_2026-10-15_snapshot"
+    },
+    "chinese-star-names.json": {
+      "retrieved_utc": "2026-10-14T17:42:20.5308069Z",
+      "url": "https://github.com/Stellarium/stellarium/blob/master/skycultures/chinese/index.json",
+      "use_status": "reused_verified_2026-10-15_snapshot"
+    }
+  },
+  "refresh_failures": [
+    {
+      "source": "NASA Exoplanet Archive pscomppars",
+      "status": 503,
+      "attempts": 2,
+      "resolution": "Reuse verified 2026-10-15 snapshot with original retrieval metadata"
+    }
+  ]
+}
